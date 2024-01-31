@@ -36,7 +36,7 @@ All documentation can be found here: https://developer.riotgames.com/apis
 ### Instructions for Replication
 1. Clone the repository to your local machine.
 2. Set up a Docker container with PostgreSQL using the provided configuration files.
-3. Run the Jupyter notebooks in the `notebooks` folder in the specified order for a step-by-step walkthrough of the project.
+3. Run the Jupyter notebooks in the [notebooks](notebooks/) folder in the specified order for a step-by-step walkthrough of the project.
 
 ### Visualization Highlights
 - **Player Performance Trends**: Interactive charts showcasing key metrics.
